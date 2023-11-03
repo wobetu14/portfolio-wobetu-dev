@@ -1,0 +1,9 @@
+.contacts__container{
+    background-color: #383f4e;
+    color: white;
+    padding-left: 50px;
+}
+
+.contact__list{
+    margin-top: 0px;
+}

@@ -1,0 +1,15 @@
+.main__container{
+  background-color: #3e485c;
+  padding: 50px;
+  text-align: left;
+}
+
+.full__name{
+    color: white;
+    padding-left: 50px;
+}
+
+.profession__title{
+    color: #429098;
+    padding-left: 50px;
+}
