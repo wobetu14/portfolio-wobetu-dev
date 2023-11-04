@@ -10,19 +10,20 @@ function WorkExperience() {
         </Typography>
         
             <List sx={{ width: '100%' }} >
+
                     <ListItem>
                         <ListItemText 
                         primary={
                           <>
-                            <Typography variant='h5' sx={{ fontWeight:'600' }}>Lecturer</Typography>
+                            <Typography variant='h5' sx={{ fontWeight:'600' }}>IT Consultant - Frontend Developer</Typography>
                           </>
                         } 
                       
                         secondary={
                           <>
-                            <Typography variant='h6'>Debre Markos University</Typography>
+                            <Typography variant='h6'>GIZ Ethiopia and Djibouti</Typography>
                             <Typography variant='body1' sx={{ color:'#429098' }}>
-                              Sept 2012 - June 2020
+                              Feb 2023 - Present
                             </Typography>
                           </>
                         }
@@ -52,22 +53,20 @@ function WorkExperience() {
                         <ListItemText 
                         primary={
                           <>
-                            <Typography variant='h5' sx={{ fontWeight:'600' }}>Frontend Developer</Typography>
+                            <Typography variant='h5' sx={{ fontWeight:'600' }}>Lecturer</Typography>
                           </>
                         } 
                       
                         secondary={
                           <>
-                            <Typography variant='h6'>GIZ Ethiopia and Djibouti</Typography>
+                            <Typography variant='h6'>Debre Markos University</Typography>
                             <Typography variant='body1' sx={{ color:'#429098' }}>
-                              Feb 2023 - Present
+                              Sept 2012 - June 2020
                             </Typography>
                           </>
                         }
                       />
-                    </ListItem>
-
-
+                    </ListItem>               
                 </List>
     </div>
   )

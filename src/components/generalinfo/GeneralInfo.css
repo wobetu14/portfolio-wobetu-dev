@@ -12,4 +12,10 @@
 .profession__title{
     color: #429098;
     padding-left: 50px;
+    padding-bottom: 15px;
+}
+
+.profession_description{
+  color: white;
+  padding-left: 50px;
 }
