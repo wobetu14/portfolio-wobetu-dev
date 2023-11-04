@@ -123,6 +123,44 @@ const TrainingAndCertification = () => {
                         }
                       />
                     </ListItem>
+
+                    <ListItem>
+                        <ListItemText 
+                        primary={
+                          <>
+                            <Typography variant='h5' sx={{ fontWeight:'600' }}>RESTful Web Services with PHP and Laravel</Typography>
+                          </>
+                        } 
+                      
+                        secondary={
+                          <>
+                            <Typography variant='h6'>PluralSight</Typography>
+                            <Typography variant='body1' sx={{ color:'#429098', paddingBottom:'20px' }}>
+                              July 2018
+                            </Typography>
+                          </>
+                        }
+                      />
+                    </ListItem>
+
+                    <ListItem>
+                        <ListItemText 
+                        primary={
+                          <>
+                            <Typography variant='h5' sx={{ fontWeight:'600' }}>Modern Web Application Development with Laravel</Typography>
+                          </>
+                        } 
+                      
+                        secondary={
+                          <>
+                            <Typography variant='h6'>PluralSight</Typography>
+                            <Typography variant='body1' sx={{ color:'#429098', paddingBottom:'20px' }}>
+                              Nov 2017
+                            </Typography>
+                          </>
+                        }
+                      />
+                    </ListItem>
             </List>
     </div>
   )

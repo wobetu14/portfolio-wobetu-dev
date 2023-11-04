@@ -20,6 +20,10 @@ function GeneralInfo() {
           I am a Senior Software Engineer with 7+ years of experience in developing web applications for small businesses to enterprises. I am an
           expert in Core PHP, Laravel, MySQL/MariaDB databases, JavaScript, React, HTML5 and CSS3.
        </Typography>
+
+       <Typography variant="body1" className='profession_description'>
+          Self-taught Programmer, Detail Oriented
+       </Typography>
    </Container>
   )
 }

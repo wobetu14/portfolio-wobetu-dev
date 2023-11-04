@@ -30,7 +30,7 @@ const Projects = () => {
                                 <li>The platform aims to automate the drafting process of laws and regulations in the country (Ethiopia), 
                                     and hence to enhance public participation, inclusiveness, tranceparency and improve the ease of doing business.
                                 </li>
-                                <li>The project is developed with Laravel and React</li>
+                                <li>The project has been developed with Laravel and React</li>
                                 <li>I was responsible for the development of the frontend part of the application</li>
                                 <li>Project URL: <a href='https://e-consultation.gov.et/' target='_blank' rel='noreferrer'>https://e-consultation.gov.et/</a></li>
                             </ul>
@@ -76,7 +76,6 @@ const Projects = () => {
                             <ul>
                                 <li>Capstone project for a "30DaysOfReact Tutorial" provided by <a href='https://www.linkedin.com/in/asabeneh/' target='_blank' rel='noreferrer'>Asabeneh Shitahun.</a>
                                 </li>
-                                <li>It is developed with Laravel and React</li>
                                 <li>Project URL: <a href='https://30daysreact.wobetu.com/' target='_blank' rel='noreferrer'>https://30daysreact.wobetu.com/</a></li>
                             </ul>
                         </Typography>
